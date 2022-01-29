@@ -1,4 +1,4 @@
-Portuguese:
+Português:
 Este é um pequeno projeto criado para estudo.
 O gerador de CPF gera números aleatorios e válidos matematicamente. Já o validador de CPF se baseia no algoritmo da Receita Federal para verificar a validade de um número de CPF somente pelo número informado.
 
