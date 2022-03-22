@@ -30,4 +30,4 @@ git clone https://github.com/Vrag404/CPF-Manager/
 ```
 
 <h3> Modo de usar: </h3>
-Basta executar "cpf_generator.py" e aparecerá um menu, se quiser que o cpf seja gerado com pontuação, use a letra 'f' se quiser sem pontuação 'w'. Para verificar se é válido, use "cpf_validator.py".
+Basta executar "cpf_generator.py" e aparecerá um menu, se desejar que o cpf seja gerado com pontuação, use a letra 'f' se desejar sem pontuação 'w'. Para verificar se é válido, utilize o "cpf_validator.py".
