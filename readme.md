@@ -12,7 +12,7 @@ git clone https://github.com/Vrag404/CPF-Manager/
 
 <h3>Usage mode:</h3>
 
-+ Just run "cpf_generator.py" and a menu will appear, if you want the cpf to be generated with punctuation, use the letter 'f' if you want without punctuation 'w'. To check if it is valid, use "cpf_validator.py".
++ Just run "cpf_generator.py" and a menu will appear, if you want the CPF to be generated with punctuation, use the letter 'f' if you want without punctuation 'w'. To check if it is valid, use "cpf_validator.py".
 
 <h2> Screenshot: </h2>
 
